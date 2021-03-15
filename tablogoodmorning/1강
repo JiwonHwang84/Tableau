@@ -1,33 +1,4 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "name": "colab_사용법 정리.ipynb",
-      "provenance": [],
-      "collapsed_sections": []
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "glR-kJufXBCd"
-      },
-      "source": [
-        ""
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "8QpQQ7n3VwBE"
-      },
-      "source": [
+
       "#태블로 굿모닝 1강  \r\n",
       "##막대차트그리기  \r\n",
       "\r\n",
@@ -40,16 +11,4 @@
       ">>>고객세그먼트(불연속형) 마크에 색상에 배치: 데이터 소비자 기업고객 홈오피스별로 색상 구별적으로 상이\r\n",
       ">>>합계매출(연속형) 마크에 색상배치: 합계매출 그라데이션으로 표시\r\n",
       "시트이름더블클릭-가운데정렬-20픽셀\r\n"
-           ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "g7UUB3zSY8rq"
-      },
-      "source": [
-        ""
-      ]
-    }
-  ]
-}
+
