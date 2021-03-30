@@ -1,0 +1,17 @@
+pdf와 연결
+pdf파일검사-전체로
+*고정 날짜 기준으로 필터 적용
+*변화가 큰곳은 굵기를 다르게 할수 있도록 fluctuaion 계산필드 만들기
+여러 페이지를 연결하기: 새유니온 선택-와일드카드(자동)-일치패턴(page*)
+adj close필드, path필드 열 숨기기
+date필드 날짜형식으로 변경
+date필드 제외 다른 필드 모두 숫자형식으로
+
+차원에 있는 date빼고 모든값 측정값으로 이동
+열-date(연속형(초록생)일)
+행-close
+date(연속형 기준날짜)필터-기준날짜년도로 고정연도
+
+*라인의 변화두께 변경
+계산된필드 만들기: fluctuation:abs(sum([close])-lookup(sum([close]),-1))  *abs() 절댓값 함수
+주석추가-지정-"salesforce to buy tableau software for $1578"
