@@ -1,0 +1,18 @@
+AB_NYC_2019
+:뉴욕시의 에어비엔비 정보를 담은 파일
+
+컬럼 설명
+neighbourhood_group : 뉴욕시 안의 자치구
+neighbourhood : 자치구 안의 또 작은 지역분류
+latitude : 위도
+longtitude : 경도
+room_type : 룸타입(Entire home/apt,Private Room, shared room)
+price : 가격
+minimum_nights : 예약시 최소 숙박일
+number_of_reviews : 리뷰갯수
+last_review : 최신 리뷰 작성 날짜
+reviews_per_month : 월당 리뷰 평균개수
+calculated_host_listings_count : 호스트당 관리하고있는 숙소
+availability_365 : 365일중 예약가능한 일수
+
+캐글 주소 : https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data?select=AB_NYC_2019.csv

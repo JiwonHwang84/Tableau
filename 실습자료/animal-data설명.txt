@@ -1,0 +1,37 @@
+Animal Care and Control Adopted Animals
+2017 년 초, Bloomington Animal Shelter에서 수집한 유기동물데이터
+
+id:신분증
+intakedate: 입양일,시간	
+intakereason:유기소들어온 이유
+ '''abandoned- 유기,allergies-알레르기,biting-묾
+born in shelter-유기소에서 태어남,incompatible with owner life style- 소유자의 라이프스타일과다름
+injured wildlife-부상당한 야생동물,marriage/relationship split-소유자 결혼/이혼,moving-동물의 행동적 문제
+owner deceased-소유자 병,owner died- 소유자사망,police assist- 경찰지원하다퇴직
+rabies monitoring-광견병,sick/injured-병듦,stary-주인없음
+trap/neuter/release-함정/중성자/해제,transfer from other shelter-다른유기소에서이동함
+unalbe to afford -감당할수없음,unsuitable accommodation-키울장소부적합
+=============
+istransfer	:양도유무(기관에서 양도받거나, 발견하거나)
+sheltercode:보호소코드	
+identichipnumber:등번호
+animalname:동물이름
+breedname:품종명
+basecolour:기본색상	
+speciesname:종이름(cat/dog/house rabbit..opossum-주머니쥐/tortoise-거북이
+animalage	:동물나이
+sexname:성별
+location:현재 동물이 있는 위치
+movementdate:입양간날짜	
+movementtype:입양형태
+istrial: 실험유무?
+returndate:반환	
+returnedreason:반환사유
+deceaseddate:사망날짜
+deceasedreason:사망원인
+diedoffshelter:사망보호자	
+puttosleep:안락사유무
+isdoa: 도착시 이미 사망여부
+
+
+캐글주소:https://www.kaggle.com/search

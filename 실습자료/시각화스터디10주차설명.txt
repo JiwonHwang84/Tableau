@@ -1,0 +1,56 @@
+
+이 데이터 세트는 인도네시아 도시 공동체의 음식 소비 패턴의 문화적 차원의 특성에 대한 설문 조사 데이터를 보여줍니다. 
+이 기사에서 논의되는 문화적 차원에는 문화적 가치와 문화적 실천 하위 차원이 포함됩니다. 
+
+데이터는 사회 계급 범주에 따라 도시 사람들의 음식 소비 패턴의 문화적 특성을 설명합니다.
+데이터 수집은 인도네시아의 5 개 주요 도시에서 계층화 된 무작위 샘플링 기법을 사용하여 얻은 710 명의 응답자와 대면 인터뷰를 실시했습니다. 
+
+데이터 결과는 문화적 차원이 경제 및 건강 차원과 비교하여 인도네시아 도시 공동체의 식량 소비 패턴에 영향을 미치는 데 상당히 지배적임을 보여줍니다.
+개념적으로 가치와 실천 하위 차원이 통합적으로 관련되어 있지만 도시 공동체의 식량 소비 패턴의 문화적 차원은 여전히 ​​가치 하위 차원에 의해 더 많이 지배됩니다. 
+식량 소비 패턴에서 도시 상류층은 문화적 차원보다 경제적 차원과 현대적인 건강한 라이프 스타일에 더 많은 영향을받습니다.
+
+
+◾ Occupation 직업
+- Private Employees : 개인 직원
+- Government Employees : 공무원
+- Enterpreneur : 기업가
+- Police officer / Army
+- Independent Worker : 자영업
+- Teacher / Lecturer
+
+◾Household member 가구 구성원
+
+◾Household income 가구소득 (월간 백만 IDR)
+
+◾Time of income receipt 소득 수령 시간 - 일급 / 주급 / 월급
+
+◾Household expenditure 가구 지출 (월간 백만 IDR)
+
+◾Monthly expenditure for food 식품에 대한 월간 지출
+
+
+
+◾Health factor 음식을 소비하는데 건강을 생각한다
+- Neither agree nor disagree : 동의하거나 동의하지 않음 ( 5점 척도에서 중간인 거 같음 )
+
+◾Price factor 음식을 소비하는데 가격을 생각한다
+
+◾Religious value in type of food 음식 유형의 종교적 가치
+
+◾Religious value in eating places 식사 장소의 종교적 가치
+
+◾Religious value in consumption pattern 소비의 종교적 가치
+
+◾Custom value in type of food 음식 유형의 개인적 가치
+
+◾Custom value in eating places 식사 장소의 개인적 가치
+
+◾Practice of food consumption based on religious rule 종교적 규칙에 근거한 식품 소비의 실천
+
+◾Practice of food consumption based on custom rule 개인적 규칙에 근거한 식품 소비의 실천
+
+◾Buying food product in the right place based on religious rule 종교적 규칙에 따라 올바른 장소에서 식품 구매
+
+◾Type of dishes variation based on religious rules 종교적 규칙에 따른 요리 유형 변화
+
+◾Practice of consuming traditiona food 전통음식 소비 실천

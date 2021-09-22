@@ -1,0 +1,18 @@
+포브스 선정 billionaire 데이터
+
+name - 이름
+networth - 순재산액
+country - 비즈니스 위치
+rank - 순위
+age - 나이
+residence - 거주 지역
+citizenship - 국적
+status - 결혼 상태 (in relationship-파트너 있음, married-결혼, divorce-이혼, widowed-미망인, single-싱글)
+children - 자녀 수
+education - 학위
+self_made - 자수성가 F, T
+latitude - 위도
+longitude - 경도
+(위도, 경도는 아마 비즈니스 위치가 아닐까.. 싶습니다.)
+
+ 
